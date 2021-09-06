@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "dme_m03",
+            "username": "postgres",
+            "password": "RKhM7ewvU7quDC",
+            "name": "vscode"
+        }
+    ]
+}
